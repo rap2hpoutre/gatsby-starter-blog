@@ -1,0 +1,2 @@
+webpackJsonp([0x7107db290105],{396:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter Blog",author:"Kyle Mathews"}},markdownRemark:{id:"/Users/raphael/web/gatsby-blog/src/pages/hi-folks/index.md absPath of file >>> MarkdownRemark",html:"<p>This post is old.</p>",frontmatter:{title:"Old post",date:"May 28, 2015"}}},pathContext:{slug:"/hi-folks/",previous:null,next:{fields:{slug:"/hello-world/"},frontmatter:{title:"Hello World"}}}}}});
+//# sourceMappingURL=path---hi-folks-3afd888510448d6ad9b4.js.map

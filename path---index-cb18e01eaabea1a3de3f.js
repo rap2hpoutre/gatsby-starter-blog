@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{397:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter Blog"}},allMarkdownRemark:{edges:[{node:{excerpt:"So  , many  .",fields:{slug:"/hello-world/"},frontmatter:{date:"08 June, 2018",title:"Hello World"}}},{node:{excerpt:"This post is old.",fields:{slug:"/hi-folks/"},frontmatter:{date:"28 May, 2015",title:"Old post"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-cb18e01eaabea1a3de3f.js.map
